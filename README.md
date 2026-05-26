@@ -1,7 +1,7 @@
 # Disease_Prediction_For-Medicel_Data
 Built a complete end-to-end classification pipeline in Python (Jupyter Notebook) to predict the likelihood of Heart Disease, Diabetes, and Breast Cancer using real-world UCI datasets.
 
-# MMWhat I built:
+# What I built:
 • Trained & compared 4 classifiers: Logistic Regression, SVM, Random Forest, and XGBoost
 • Applied full preprocessing: zero-value imputation, median fill, feature scaling
 • Evaluated with Accuracy, ROC-AUC, Confusion Matrices & 5-fold Cross Validation
